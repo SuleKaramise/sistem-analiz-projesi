@@ -1,17 +1,27 @@
-# Google Drive İçeriği Hakkında
+# Proje Teslimi
 
-Bu Google Drive klasörü içerisinde aşağıdaki dosyalar bulunmaktadır:
+Bu ZIP dosyası içerisinde aşağıdaki dosyalar bulunmaktadır:
 
-* Projenin Android Studio'dan alınmış, ek dosya temizliği yapılmamış orijinal sürümü
-* Uygulamanın oynanış ve tanıtım videosu
-* Uygulamanın derlenmiş ve kuruluma hazır APK sürümü
+* Proje Sunumu
+* Proje Raporu (Word Belgesi)
+* Android Studio Kaynak Kodları
 
-GitHub'ın dosya boyutu sınırlamaları nedeniyle bazı büyük dosyaların depolanması ve paylaşılması için Google Drive tercih edilmiştir. Bu sayede proje dosyalarının tamamına ve uygulamanın tanıtım videosuna sorunsuz şekilde erişebilirsiniz.
+## Kaynak Kodların Çalıştırılması
 
-## APK Kurulumu
+1. Android Studio'yu açın.
+2. ZIP dosyasından çıkardığınız proje klasörünü Android Studio ile açın.
+3. Gradle senkronizasyonunun tamamlanmasını bekleyin.(Eğer otomatik gerçekleşmez ise ekranın sağ üst kısmında Sync Project with Gradle Files butonuna basın.)
+4. Projeyi Build/Run ederek uygulamayı çalıştırabilirsiniz.
 
-Google Drive içerisinde bulunan APK dosyasını Android telefonunuza indirerek doğrudan kurabilirsiniz. Kurulum için yalnızca APK dosyasını indirmeniz ve açmanız yeterlidir.
+## Hazır Uygulama (APK)
 
-Kurulum sırasında "Bilinmeyen Kaynaklar" veya "Bu Kaynaktan Yüklemeye İzin Ver" uyarısı alırsanız, telefonunuzun Ayarlar bölümünden ilgili izni etkinleştirerek kuruluma devam edebilirsiniz.
+Uygulamanın derlenmiş (APK) sürümüne aşağıdaki Google Drive bağlantısından ulaşabilirsiniz:
 
-Not: GitHub deposunda proje kaynak kodlarının çalıştırılması için gerekli dosyalar bulunmaktadır. Google Drive ise büyük boyutlu dosyaların ve ek içeriklerin paylaşılması amacıyla kullanılmıştır.
+https://drive.google.com/drive/folders/1XrAHDsUmlKmAvYKO12DTjKis2pS9v12I?usp=sharing
+
+APK dosyasını Android cihazınıza indirip kurarak uygulamayı doğrudan deneyebilirsiniz.
+
+## Not
+
+Kurulum sırasında "Bilinmeyen Kaynaklar" veya "Bu Kaynaktan Yüklemeye İzin Ver" uyarısı alırsanız, cihaz ayarlarından ilgili izni etkinleştirerek kuruluma devam edebilirsiniz.
+Uygulamamızın kullandığı database online şekilde yer aldığı için herhangi bir veritabanı kurulumu yapmanız ne mobil tarafta ne de pc tarafında gerekmektedir.
