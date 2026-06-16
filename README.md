@@ -1,27 +1,29 @@
-# Proje Teslimi
+# PROJE TESLİM DOSYASI İÇERİĞİ
 
-Bu ZIP dosyası içerisinde aşağıdaki dosyalar bulunmaktadır:
+Bu teslim dosyası içerisinde aşağıdaki belgeler ve proje bileşenleri bulunmaktadır:
 
-* Proje Sunumu
-* Proje Raporu (Word Belgesi)
+* Proje Sunumu (.pptx)
+* Proje Raporu (.docx)
 * Android Studio Kaynak Kodları
+* Uygulamaya ait APK dosyası
+* Uygulamanın tanıtım ve kullanım videosu
 
-## Kaynak Kodların Çalıştırılması
+# KAYNAK KODLARIN ÇALIŞTIRILMASI
 
-1. Android Studio'yu açın.
-2. ZIP dosyasından çıkardığınız proje klasörünü Android Studio ile açın.
-3. Gradle senkronizasyonunun tamamlanmasını bekleyin.(Eğer otomatik gerçekleşmez ise ekranın sağ üst kısmında Sync Project with Gradle Files butonuna basın.)
-4. Projeyi Build/Run ederek uygulamayı çalıştırabilirsiniz.
+1. Android Studio uygulamasını açınız.
+2. Sıkıştırılmış dosyadan çıkardığınız proje klasörünü Android Studio ile açınız.
+3. Gradle senkronizasyonunun tamamlanmasını bekleyiniz.
+4. Senkronizasyon işlemi otomatik olarak başlamazsa, Android Studio üzerinde bulunan **"Sync Project with Gradle Files"** seçeneğini kullanınız.
+5. Senkronizasyon tamamlandıktan sonra projeyi Build/Run ederek çalıştırabilirsiniz.
 
-## Hazır Uygulama (APK)
+# APK KURULUMU
 
-Uygulamanın derlenmiş (APK) sürümüne aşağıdaki Google Drive bağlantısından ulaşabilirsiniz:
+APK dosyası Android cihazlara doğrudan kurulabilir.
 
-https://drive.google.com/drive/folders/1XrAHDsUmlKmAvYKO12DTjKis2pS9v12I?usp=sharing
+Kurulum sırasında cihazınız "Bilinmeyen Kaynaklar" veya "Bu Kaynaktan Yüklemeye İzin Ver" uyarısı gösterirse, ilgili izni etkinleştirerek kuruluma devam edebilirsiniz.
 
-APK dosyasını Android cihazınıza indirip kurarak uygulamayı doğrudan deneyebilirsiniz.
+# VERİTABANI BİLGİSİ
 
-## Not
+Uygulama, çevrimiçi (online) veritabanı altyapısı kullanmaktadır. Bu nedenle uygulamanın çalıştırılması için herhangi bir veritabanı kurulumu veya ek yapılandırma yapılmasına gerek yoktur.
 
-Kurulum sırasında "Bilinmeyen Kaynaklar" veya "Bu Kaynaktan Yüklemeye İzin Ver" uyarısı alırsanız, cihaz ayarlarından ilgili izni etkinleştirerek kuruluma devam edebilirsiniz.
-Uygulamamızın kullandığı database online şekilde yer aldığı için herhangi bir veritabanı kurulumu yapmanız ne mobil tarafta ne de pc tarafında gerekmektedir.
+Hem Android cihaz üzerinde APK kurulumu ile hem de Android Studio üzerinden kaynak kodlar kullanılarak uygulama sorunsuz şekilde çalıştırılabilir.
