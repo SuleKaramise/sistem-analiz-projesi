@@ -20,6 +20,8 @@ Bu teslim dosyası içerisinde aşağıdaki belgeler ve proje bileşenleri bulun
 
 APK dosyası Android cihazlara doğrudan kurulabilir.
 
+İnternet hızınıza bağlı olarak Gradle Dosyalarının yüklenmesi 1-10 dk arasında sürebilir
+
 Kurulum sırasında cihazınız "Bilinmeyen Kaynaklar" veya "Bu Kaynaktan Yüklemeye İzin Ver" uyarısı gösterirse, ilgili izni etkinleştirerek kuruluma devam edebilirsiniz.
 
 # VERİTABANI BİLGİSİ
