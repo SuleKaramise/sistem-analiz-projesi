@@ -3,7 +3,7 @@
 Bu teslim dosyası içerisinde aşağıdaki belgeler ve proje bileşenleri bulunmaktadır:
 
 * Proje Sunumu (.pptx)
-* Proje Raporu (.docx)
+* Proje Raporu (.docx / .pdf)
 * Android Studio Kaynak Kodları
 * Uygulamaya ait APK dosyası
 * Uygulamanın tanıtım ve kullanım videosu
